@@ -1,0 +1,14 @@
+Recursion:
+
+1. Recursion is when you want to do the same thing over and over until some condition is met. Instead of writing a bunch of if statements with the same functionality, recursion can be used to call the function within itself.
+
+2. A base case is necessary or else the function will keep running for ever since there is not condition that needs to be met for the function to stop calling itself. This is costly in that it eats memory. Also, there is no end.
+
+Graphs:
+
+1. A graph is like a network of links which shows how things are related to one another, directly or indirectly.
+
+2. A graph is different in a tree because it can have cycles that loop back to the same node. Trees only go in one direction in terms of relationship from one node to another. A node (A) on a tree which is the child of another node (B) cannot also be the grandparent of the other node (B).
+
+3. A network of all the people on Facebook and how they are linked to one another by "friendship" would be good to model with a graph.
+
